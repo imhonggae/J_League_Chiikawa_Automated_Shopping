@@ -8,6 +8,6 @@
     <img src="show.jpg">
 </div>
 
-编译器：pycharm
-环境：python3.9.0
+编译器：pycharm <br>
+环境：python3.9.0 <br>
 我用的tensorflow的版本是2.10.0，太高会报错。

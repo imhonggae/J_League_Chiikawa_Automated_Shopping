@@ -10,5 +10,5 @@
 
 编译器：pycharm <br>
 环境：python3.9.0 <br>
-商店链接：https://store.jleague.jp/item/P0000073404/ (点击运行程序后记得手动切到这个商店页面) <br>
+商店链接：https://store.jleague.jp/item/P0000073404/ (程序正常启动后记得手动切到这个商店页面) <br>
 初学者，做着玩的，嘴下留情qwq

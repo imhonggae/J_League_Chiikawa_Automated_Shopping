@@ -9,5 +9,6 @@
 </div>
 
 编译器：pycharm <br>
-环境：python3.9.0 <br>
-我用的tensorflow的版本是2.10.0，太高会报错。
+环境：python3.9.0
+商店链接：https://store.jleague.jp/item/P0000073404/ (点击运行程序后记得手动切到这个商店页面)
+初学者，做着玩的，嘴下留情qwq

@@ -5,7 +5,7 @@
 #### 4. 后期优化方向可以用机器学习分别训练模型以代替目前的图片库（由于商店到2024.12.31就会下架，应该没时间优化了）。
 
 <div align="center">
-    <img src="show.jpg">
+    <img src="showing.jpg">
 </div>
 
 编译器：pycharm <br>
